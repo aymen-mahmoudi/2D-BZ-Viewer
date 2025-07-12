@@ -76,20 +76,7 @@ In crystallography, Bravais lattices describe the fundamental periodic arrangeme
 ---
 
 ## Support and Contributing
-
-
-
-
-
-
-
-
-
-
-Special thanks to Geoffroy Kremer for testing and verifying## Acknowledgment---If you encounter any issues, please open an issue on GitHub. For confidential matters, feel free to email me directly.Suggestions and ideas for enhancing the scripts or adding features are warmly appreciated!  Suggestions and ideas for enhancing the scripts or adding features are warmly appreciated!  
-If you encounter any issues, please open an issue on GitHub. For confidential matters, feel free to email me directly.
-
----
+If you encounter any issues, please open an issue on GitHub. For confidential matters, feel free to email me directly. Suggestions and ideas for enhancing the scripts or adding features are warmly appreciated!  
 
 ## Acknowledgment
 
