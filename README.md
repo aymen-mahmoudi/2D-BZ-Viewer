@@ -6,16 +6,14 @@ This project helps visualize the Brillouin zone for 2D lattices as well as their
 In crystallography, Bravais lattices describe the fundamental periodic arrangements of points in space. In **two dimensions (2D)**, there are **five** distinct Bravais lattice types: *oblique*, *rectangular*, *centered rectangular*, *square*, and *hexagonal*.
 
 ### 2D Bravais Lattice Types
+| # | Lattice Type          | Parameters                         |
+|---|-----------------------|------------------------------------|
+| 1 | Oblique               | a ≠ b, γ ≠ 90°                      |
+| 2 | Rectangular           | a ≠ b, γ = 90°                      |
+| 3 | Centered Rectangular  | a ≠ b, γ = 90°                      |
+| 4 | Square                | a = b, γ = 90°                      |
+| 5 | Hexagonal             | a = b, γ = 120°                     |
 
-| # | Lattice Type         | Parameters                                 |
-|---|---------------------|--------------------------------------------|
-| 1 | Oblique             | \( a \ne b, \gamma \ne 90^\circ \)         |
-| 2 | Rectangular         | \( a \ne b, \gamma = 90^\circ \)           |
-| 3 | Centered Rectangular| \( a \ne b, \gamma = 90^\circ \)           |
-| 4 | Square              | \( a = b, \gamma = 90^\circ \)             |
-| 5 | Hexagonal           | \( a = b, \gamma = 120^\circ \)            |
-
----
 
 ## Project Structure
 
@@ -77,11 +75,5 @@ In crystallography, Bravais lattices describe the fundamental periodic arrangeme
 
 ## Support and Contributing
 If you encounter any issues, please open an issue on GitHub. For confidential matters, feel free to email me directly. Suggestions and ideas for enhancing the scripts or adding features are warmly appreciated!  
-
-## Acknowledgment
-
-Special thanks to Geoffroy Kremer for testing and verifying the formula.
-
-
 
 
